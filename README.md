@@ -1,3 +1,4 @@
 <h1 align="center"> Challenge Amigo Secreto </h1>
 Ingresando al sitio web podrás crear una lista con nombres de amigos; crea una lista tan larga como quieras y luego sortea uno de los nombres dentro del listado para elegir un "amigo secreto". Ideal para organizar intercambio de obsequios en celebraciones o incluso acciones más practicas, como designar aleatoriamente al encargado de algún trabajo.
 Una vez activada la funcion de sortear amigos el ususario podrá seguir incluyendo nombres al listado, pero en caso de querer corregir o iniciar una nueva lista tendrá que reiniciar el sitio web.
+![Imagen de la pantalla inicial del challenge amigo secreto, incluyendo la casilla donde escreibir el nombre de amigos y el botón para añadirlo al listado, ademas del botón inferior para sortear al amigo una vez terminada la lista](https://github.com/user-attachments/assets/1633d6c9-0fc8-475b-84e0-0df953d75f8a)
